@@ -14,9 +14,8 @@ A simple, single-page web app that randomly picks a lunch idea for you at the cl
 
 ## Live Demo
 
-🔗 **[https://YOUR-USERNAME.github.io/random-lunch-generator/](https://YOUR-USERNAME.github.io/random-lunch-generator/)**
+🔗 https://gogolev1307.github.io/random-lunch-generator/
 
-> Replace `YOUR-USERNAME` with your GitHub username after enabling GitHub Pages (see instructions below).
 
 ## How It Works
 
